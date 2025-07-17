@@ -4,7 +4,16 @@
       "key": "jj",
       "name": "dd",
       "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "sd",
+      "name": "ss",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "playerType": 2
