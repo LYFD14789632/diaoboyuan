@@ -15,9 +15,9 @@
       "group": "自定义",
       "channels": [
         {
-          "name": "直播源",
+          "name": "liveTV",
           "urls": [
-            "about:blank"
+            "https://git.mokoc.live/https://raw.githubusercontent.com/LYFD14789632/ZBy/refs/heads/main/liveTV.txt"
           ]
         }
       ]
