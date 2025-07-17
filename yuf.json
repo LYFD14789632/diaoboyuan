@@ -4,7 +4,7 @@
       "key": "jj",
       "name": "dd",
       "type": 0,
-      "api": "https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "playerType": 2
