@@ -4,7 +4,7 @@
       "key": "YUF",
       "name": "羽风",
       "type": 0,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
